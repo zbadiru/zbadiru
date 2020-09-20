@@ -8,3 +8,5 @@ SJP
 I created this project as a website for a friend to showcase her skill as a Photographer and display her Portfolio. DEMO 
 
 Contact Me
+
+www.linkedin.com/in/zbadiru
