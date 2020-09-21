@@ -10,3 +10,4 @@ I created this project as a website for a friend to showcase her skill as a Phot
 Contact Me
 
 www.linkedin.com/in/zbadiru
+zbadiru@gmail.com
