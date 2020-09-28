@@ -8,8 +8,10 @@ SJP-Creative
 I created this project as a website for a friend to showcase her skill as a Photographer and display her Portfolio. DEMO 
 
 PHONE-SHOP
+E-commerce app that showcase phones and cart check out system with a payment method of paypal
 
 Contact Me
 
 www.linkedin.com/in/zbadiru
+
 zbadiru@gmail.com
