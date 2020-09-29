@@ -10,6 +10,8 @@ I created this project as a website for a friend to showcase her skill as a Phot
 PHONE-SHOP
 E-commerce app that showcase phones and cart check out system with a payment method of paypal
 
+GYM-LIKER
+
 Contact Me
 
 www.linkedin.com/in/zbadiru
