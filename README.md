@@ -7,7 +7,7 @@ Projects!!!!
 SJP-Creative!!
 I created this project as a website for a friend to showcase her skill as a Photographer and display her Portfolio. DEMO 
 
-PHONE-SHOP!
+PHONE-SHOP!!
 E-commerce app that showcase phones and cart check out system with a payment method of paypal. Backend built with Ruby on Rails, Frontend built with React
 
 GYM-LIKER!!
