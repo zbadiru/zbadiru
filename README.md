@@ -19,4 +19,4 @@ www.linkedin.com/in/zbadiru
 
 zbadiru@gmail.com
 
-www.linkedin.com/in/zbadiru
+https://medium.com/@zacharybadiru
