@@ -2,9 +2,9 @@ Welcome 🤝🏾
 
 I'm Zakari, a Software Engineer based in London/Glasgow
 
-Projects!!
+Projects!!!
 
-SJP-Creative!!
+SJP-Creative!!!
 I created this project as a website for a friend to showcase her skill as a Photographer and display her Portfolio. DEMO 
 
 PHONE-SHOP!!
