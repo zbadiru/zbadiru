@@ -13,7 +13,7 @@ E-commerce app that showcase phones and cart check out system with a payment met
 GYM-LIKER!!
 An instagram like app, that allows you to upload images. Which can be liked, committed on etc. Backend built with Ruby on Rails and Frontend built with vanilla JavaScritp. 
 
-Contact Me!!!
+Contact Me!!
 
 www.linkedin.com/in/zbadiru
 
